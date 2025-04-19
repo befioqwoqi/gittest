@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main() {
-    cout << "Hello World!" << endl; // Mostra a mensagem "Hello World!" na saída padrã
+    cout << "Hello World!" << endl;
+    cout<<"你好世界"<<endl;
 }
